@@ -1,0 +1,4 @@
+composer
+app/cache/dev/
+app/logs/dev.log
+vendor/
